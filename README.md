@@ -1,4 +1,4 @@
-Sultan Hazazi | Embedded Systems Engineer
+Sultan Hazazi | Embedded Systems Engineer.
 
 Hello! I am Sultan Hazazi, now a computer engineering student passionate about embedded systems, microcontrollers, and low-level programming using C, C++, and STM32.  
 
